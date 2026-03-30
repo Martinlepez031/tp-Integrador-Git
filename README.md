@@ -1,5 +1,6 @@
-# Nombre:
-# Nicolás Romano 
-# Hernán Farfán
-# Martin lepez
-# Fabricio Fracapani
+# Integrantes
+
+- Nicolás Romano
+- Hernán Farfán
+- Martin Lepez
+- Fabricio Fracapani
